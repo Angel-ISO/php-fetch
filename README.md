@@ -1,2 +1,2 @@
 # php-fetch
-plantilla
+plantilla de fetch api- envio y tratamiento de data
